@@ -1,22 +1,31 @@
 # Sessionizing
 
 1) Solution description:
+
 	a. Program:
 		Contains the 'Main' function, validates the input, transfers the query type and query input arguments to the relevant excecutors
+		
 	b. DataManager:
 		Holds the data which is taken from the CSV files
+		
 	c. Row:
 		Data model representing a single row in the CSV file, every field in it corresponds to the CSV files columns
+		
 	d. CONSTS:
 		Constants
+		
 	e. IQueryExcecutor:
 		An interface for QueryExcecutors objects
+		
 	f. NumOfSessionsExcecutor, MedianSessionLengthExcecutor, NumOfUniqueVisitedSitesExcecutor:
 		Query excecutors, contain "ExcecuteQuery" function which holds the logic for running the query
+		
 	g. ExcecutorsUtil:
 		Holds the field of QueryExcecutors array and contains a function which returns a mapping from excecutor query type to an excecutor object
-	h. UnitTest:
+		
+		h. UnitTest:
 		Unit tests class
+		
 
 2) Instructions:
 	a. Download the "Program.exe" file and the "CSVs" folder.
