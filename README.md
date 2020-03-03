@@ -26,8 +26,8 @@
 	h. UnitTest:
 		Unit tests class
 		
-
-2) Instructions:
+		
+2) Instructions - how to run the program:
 
 	a. Download the "Program.exe" file and the "CSVs" folder.
 	
