@@ -28,6 +28,7 @@
 		
 
 2) Instructions:
+
 	a. Download the "Program.exe" file and the "CSVs" folder.
 	
 	b. Open CMD and 'cd' to the "Program.exe" path.
@@ -37,6 +38,7 @@
 	The string 'Program', followed by an even number of arguments, where the first argument of every couple has to be one of the 		followings: NumOfSessions , MedianSessionLength or NumOfUniqueVisitedSites.
 	
 	Examples: 
+	
 		Program NumOfSessions www.s_4.com
 		Program MedianSessionLength www.s_6.com
 		Program NumOfUniqueVisitedSites visitor_8
