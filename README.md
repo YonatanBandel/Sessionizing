@@ -78,4 +78,4 @@
 7) Screenshots:
 
 
-![alt text](https://github.com/YonatanBandel/Sessionizing/blob/master/Sessionizing screenshot.png)
+![alt text](https://github.com/YonatanBandel/Sessionizing/blob/Sessionizing screenshot.png)
