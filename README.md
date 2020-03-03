@@ -3,7 +3,7 @@
 1) Solution description:
 
 	a. Program:
-		Contains the 'Main' function, validates the input, transfers the query type and query input arguments to the relevant excecutors
+		Contains the 'Main' function, validates the input, transfers the query type and query input arguments to the relevant 			excecutors
 		
 	b. DataManager:
 		Holds the data which is taken from the CSV files
@@ -21,27 +21,34 @@
 		Query excecutors, contain "ExcecuteQuery" function which holds the logic for running the query
 		
 	g. ExcecutorsUtil:
-		Holds the field of QueryExcecutors array and contains a function which returns a mapping from excecutor query type to an excecutor object
-		
-		h. UnitTest:
+		Holds the field of QueryExcecutors array and contains a function which returns a mapping from excecutor query type to an 		excecutor object
+	
+	h. UnitTest:
 		Unit tests class
 		
 
 2) Instructions:
 	a. Download the "Program.exe" file and the "CSVs" folder.
+	
 	b. Open CMD and 'cd' to the "Program.exe" path.
+	
 	c. The program is ready to be called in the following form:
-	The string 'Program', followed by an even number of arguments, where the first argument of every couple has to be one of the followings: NumOfSessions , MedianSessionLength or NumOfUniqueVisitedSites.
+	
+	The string 'Program', followed by an even number of arguments, where the first argument of every couple has to be one of the 		followings: NumOfSessions , MedianSessionLength or NumOfUniqueVisitedSites.
+	
 	Examples: 
 		Program NumOfSessions www.s_4.com
 		Program MedianSessionLength www.s_6.com
 		Program NumOfUniqueVisitedSites visitor_8
 		*The program can be called with multiple queries, in the following form:
 		Program NumOfSessions www.s_4.com MedianSessionLength www.s_6.com NumOfUniqueVisitedSites visitor_8
+		
 	Note: the csv files have to be in the directory of the 'Program.exe' file inside a 'CSVs' folder
 
 3) How would I support scale:
+
 	a. I'd save the CSV files data in a database and access it using SQL queries.
+	
 	b. To handle many parallel requests, I'd use a Thread pool and use Async functions.
 
 4) Space and time complexity:
