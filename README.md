@@ -74,3 +74,8 @@
 
 	I chose to refer to 'timestamp' column as a number because an arithmethic operation is performed on it (subtract).
 	I chose to use 'long' because if I chose 'int' then in about 32 years the code will break because the number representing that future time will be larger than 'int' max limit which is 2,147,483,647
+
+7) Screenshots:
+
+
+![alt text](https://github.com/YonatanBandel/Sessionizing/blob/master/Sessionizing screenshot.png)
