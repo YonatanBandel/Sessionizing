@@ -1,0 +1,11 @@
+C:\Users\יונתן בנדל\source\repos\Sessionizing\Sessionizing\bin\Debug\netcoreapp2.1\Sessionizing.deps.json
+C:\Users\יונתן בנדל\source\repos\Sessionizing\Sessionizing\bin\Debug\netcoreapp2.1\Sessionizing.runtimeconfig.json
+C:\Users\יונתן בנדל\source\repos\Sessionizing\Sessionizing\bin\Debug\netcoreapp2.1\Sessionizing.runtimeconfig.dev.json
+C:\Users\יונתן בנדל\source\repos\Sessionizing\Sessionizing\bin\Debug\netcoreapp2.1\Sessionizing.dll
+C:\Users\יונתן בנדל\source\repos\Sessionizing\Sessionizing\bin\Debug\netcoreapp2.1\Sessionizing.pdb
+C:\Users\יונתן בנדל\source\repos\Sessionizing\Sessionizing\obj\Debug\netcoreapp2.1\Sessionizing.csprojAssemblyReference.cache
+C:\Users\יונתן בנדל\source\repos\Sessionizing\Sessionizing\obj\Debug\netcoreapp2.1\Sessionizing.csproj.CoreCompileInputs.cache
+C:\Users\יונתן בנדל\source\repos\Sessionizing\Sessionizing\obj\Debug\netcoreapp2.1\Sessionizing.AssemblyInfoInputs.cache
+C:\Users\יונתן בנדל\source\repos\Sessionizing\Sessionizing\obj\Debug\netcoreapp2.1\Sessionizing.AssemblyInfo.cs
+C:\Users\יונתן בנדל\source\repos\Sessionizing\Sessionizing\obj\Debug\netcoreapp2.1\Sessionizing.dll
+C:\Users\יונתן בנדל\source\repos\Sessionizing\Sessionizing\obj\Debug\netcoreapp2.1\Sessionizing.pdb
