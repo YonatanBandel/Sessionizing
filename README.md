@@ -70,6 +70,7 @@
 5) How I tested my code:
 	Unit tests, the relevant class is attached.
 
-6) Additional issues:
-	a. I chose to refer to 'timestamp' column as a number because an arithmethic operation is performed on it (subtract).
+6) Additional issue:
+
+	I chose to refer to 'timestamp' column as a number because an arithmethic operation is performed on it (subtract).
 	I chose to use 'long' because if I chose 'int' then in about 32 years the code will break because the number representing that future time will be larger than 'int' max limit which is 2,147,483,647
