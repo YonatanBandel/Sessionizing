@@ -1,8 +1,5 @@
 # Sessionizing
 
-
-Yonatan Bandel - Sessionizing
-
 1) Solution description:
 	a. Program:
 		Contains the 'Main' function, validates the input, transfers the query type and query input arguments to the relevant excecutors
