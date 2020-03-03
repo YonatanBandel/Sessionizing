@@ -1,0 +1,17 @@
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\obj\Debug\netcoreapp2.1\SessionizingUnitTest.csprojAssemblyReference.cache
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\obj\Debug\netcoreapp2.1\SessionizingUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\obj\Debug\netcoreapp2.1\SessionizingUnitTest.AssemblyInfoInputs.cache
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\obj\Debug\netcoreapp2.1\SessionizingUnitTest.AssemblyInfo.cs
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\bin\Debug\netcoreapp2.1\SessionizingUnitTest.deps.json
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\bin\Debug\netcoreapp2.1\SessionizingUnitTest.runtimeconfig.json
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\bin\Debug\netcoreapp2.1\SessionizingUnitTest.runtimeconfig.dev.json
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\bin\Debug\netcoreapp2.1\SessionizingUnitTest.dll
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\bin\Debug\netcoreapp2.1\SessionizingUnitTest.pdb
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\bin\Debug\netcoreapp2.1\Sessionizing.dll
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\bin\Debug\netcoreapp2.1\Sessionizing.pdb
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\obj\Debug\netcoreapp2.1\SessionizingUnitTest.csproj.CopyComplete
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\obj\Debug\netcoreapp2.1\SessionizingUnitTest.dll
+C:\Users\יונתן בנדל\source\repos\Sessionizing\SessionizingUnitTest\obj\Debug\netcoreapp2.1\SessionizingUnitTest.pdb
